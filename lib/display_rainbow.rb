@@ -9,3 +9,4 @@ def display_rainbow(rainbow)
 end
 
 
+display_rainbow()
