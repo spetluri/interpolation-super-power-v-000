@@ -7,3 +7,5 @@ def display_rainbow(rainbow)
   
   
 end
+
+
