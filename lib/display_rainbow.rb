@@ -7,7 +7,3 @@ def display_rainbow(rainbow)
   
   
 end
-
-
-r = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-display_rainbow(r)
